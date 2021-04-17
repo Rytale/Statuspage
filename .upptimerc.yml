@@ -1,7 +1,7 @@
 # Change these first
 owner: Rytale # Your GitHub organization or username
 repo: Statuspage # Your GitHub repository name
-
+user-agent: Rytale
 # Add your sites here
 sites:
   - name: Rytale
@@ -51,8 +51,8 @@ i18n:
   pastIncidents: Past Incidents
   pastIncidentsResolved: Resolved in $MINUTES minutes with $POSTS posts
   liveStatus: Live Status
-  overallUptime: " "
-  overallUptimeTitle: 
+  overallUptime: "-----------"
+  overallUptimeTitle: ---------
   averageResponseTime: "Average response time: $TIMEms"
   averageResponseTimeTitle: Average response
   sevelDayResponseTime: 7-day response time
