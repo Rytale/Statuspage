@@ -22,7 +22,7 @@ status-website:
   introTitle: "**Rytale** Network status page"
   introMessage: 
   i18n:
-  footer: Copyright © 2021 Rytale
+    footer: Copyright © 2021 Rytale
   navbar:
     - title: Status
       href: /
