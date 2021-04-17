@@ -1,6 +1,6 @@
 # Change these first
 owner: Rytale # Your GitHub organization or username
-repo: Statuspage-v2 # Your GitHub repository name
+repo: Statuspage # Your GitHub repository name
 
 # Add your sites here
 sites:
