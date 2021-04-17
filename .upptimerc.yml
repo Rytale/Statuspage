@@ -21,11 +21,15 @@ status-website:
   name: Rytale-Statuspage
   introTitle: "**Rytale** Network status page"
   introMessage: 
+  i18n:
+  footer: Copyright © 2021 Rytale
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+      - title: Website
+      href: https://rytale.net
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
