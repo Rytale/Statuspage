@@ -18,8 +18,8 @@ status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
 #   cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  baseUrl: /Statuspage-v2
-  logoUrl: https://github.com/Rytale/Statuspage-v2/blob/master/image-removebg-preview.png?raw=true
+  baseUrl: /Statuspage
+  logoUrl: https://github.com/Rytale/Statuspage/blob/master/image-removebg-preview.png?raw=true
   name: Rytale-Statuspage
   introTitle: "**Rytale** Network status page"
   introMessage: 
