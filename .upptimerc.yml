@@ -51,7 +51,7 @@ i18n:
   pastIncidents: Past Incidents
   pastIncidentsResolved: Resolved in $MINUTES minutes with $POSTS posts
   liveStatus: Live Status
-  overallUptime: "Overall uptime: $UPTIME"
+  overallUptime: ""
   overallUptimeTitle: Overall uptime
   averageResponseTime: "Average response time: $TIMEms"
   averageResponseTimeTitle: Average response
