@@ -27,7 +27,7 @@ status-website:
     footer: Copyright © 2021 Rytale
   navbar:
     - title: Status
-      href: /
+      href: /Statuspage
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: Website
