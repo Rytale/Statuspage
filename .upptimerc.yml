@@ -7,7 +7,7 @@ sites:
   - name: Rytale
     url: https://Rytale.net
   - name: Discord-bot
-    url: $SECRET_SITE
+    url: https://google.com
   - name: TCP ping
     url: 1.1.1.1
 
