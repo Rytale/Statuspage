@@ -7,7 +7,7 @@ sites:
   - name: Rytale
     url: https://Rytale.net
   - name: Rytale server
-    url: https://play.rytale.net
+    url: 	142.4.205.43
   - name: Discord-bot
     url: https://asdasdasdasdsa.com
   - name: TCP ping
