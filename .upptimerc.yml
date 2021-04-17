@@ -4,18 +4,9 @@ repo: Statuspage-v2 # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Test for HEAD
-    method: HEAD
-    url: https://www.google.com
-  - name: Secret Site
+  - name: Rytale
+    url: https://Rytale.net
+  - name: Discord-bot
     url: $SECRET_SITE
   - name: TCP ping
     url: 1.1.1.1
