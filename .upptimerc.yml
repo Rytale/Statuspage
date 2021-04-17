@@ -54,7 +54,6 @@ i18n:
   averageResponseTime: "Average response time: $TIMEms"
   averageResponseTimeTitle: Average response
   sevelDayResponseTime: 7-day response time
-  responseTimeMs: Response time (ms)
-  footer:
+  footer: Copyright © 2021 Rytale
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
