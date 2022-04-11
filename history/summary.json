@@ -4,7 +4,7 @@
     "url": "https://Rytale.net",
     "icon": "https://favicons.githubusercontent.com/rytale.net",
     "slug": "rytale",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 1219,
     "timeDay": 599,
-    "timeWeek": 1173,
+    "timeWeek": 792,
     "timeMonth": 913,
     "timeYear": 1219,
     "dailyMinutesDown": {}
