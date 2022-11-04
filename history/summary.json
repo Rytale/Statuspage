@@ -14,7 +14,7 @@
     "timeDay": 800,
     "timeWeek": 671,
     "timeMonth": 1366,
-    "timeYear": 1510,
+    "timeYear": 1509,
     "dailyMinutesDown": {}
   },
   {
@@ -58,16 +58,16 @@
     "url": "1.1.1.1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "tcp-ping",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 60,
-    "timeDay": 51,
-    "timeWeek": 69,
-    "timeMonth": 71,
+    "timeDay": 50,
+    "timeWeek": 68,
+    "timeMonth": 70,
     "timeYear": 64,
     "dailyMinutesDown": {}
   }
